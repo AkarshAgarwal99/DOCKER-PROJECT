@@ -8,8 +8,8 @@
             > To start Web Browser
             > To exit From Command
             > To start docker services + IT +DIT terminal ask first
-            > To Create Own website UP
-            > To Stop the Running Site
+            > To Create Own website UP NEXTCLOUD
+            > To Stop the Running Site NEXTCLOUD
       
    2. remote Access
             > To see date 
@@ -17,8 +17,8 @@
             > To start Web Browser
             > To exit From Command
             > To start docker services + IT +DIT terminal ask first
-            > To Create Own website UP
-            > To Stop the Running Site
+            > To Create Own website UP NEXTCLOUD
+            > To Stop the Running Site NEXTCLOUD
 # Unlock for setup 
       1. For local system 
                   > Go to local when you run the program

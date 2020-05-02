@@ -32,7 +32,7 @@
                   > it take as a key once for your remote system and run many times ssh key gen
                   > Use all commands it all working
 # Link for These type of Images 
- official links for your reference about docker: Hub.docker.com
+ Official links for your reference about docker: https://hub.docker.com/
  
  # Query for Project :
    Email : Akarshagarwal99@gmail.com 

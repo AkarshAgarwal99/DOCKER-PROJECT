@@ -11,7 +11,7 @@
             > To Create Own website UP NEXTCLOUD
             > To Stop the Running Site NEXTCLOUD
       
-   2. remote Access
+    2. remote Access
             > To see date 
             > To see calander
             > To start Web Browser

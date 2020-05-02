@@ -2,7 +2,7 @@
       Hey, This project is created using a great technology called docker with the help of python
       Access Remote and local system Both.
 # Project Criteria
-    ```1. Key features of local
+    1. Key features of local
             > To see date 
             > To see calander
             > To start Web Browser
@@ -11,7 +11,7 @@
             > To Create Own website UP
             > To Stop the Running Site
       
-     2. remote Access
+   2. remote Access
             > To see date 
             > To see calander
             > To start Web Browser
@@ -20,12 +20,12 @@
             > To Create Own website UP
             > To Stop the Running Site
 # Unlock for setup 
-      ``` 1. For local system 
+      1. For local system 
                   > Go to local when you run the program
                   > PASSWORD : redhat
                   > Use all commands it all working
                   
-            2. for Remote system
+      2. for Remote system
                   > You wil go to remote system
                   > PASSWORD : redhat
                   > It ask you first for remote IP ADDRESS :
